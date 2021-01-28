@@ -9,7 +9,7 @@ import java.lang.NumberFormatException
 
 /**
  * Implement the interface View.OnClickListener.
- * alt+Enter na MainActivity para implementar os metodos da interface.
+ * alt + Enter at MainActivity to implement the interface methods.
  *
  * A MainActivity will behave in the same way as the OnClickListener interface,
  * so the onClick method was implemented.
